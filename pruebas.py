@@ -1,3 +1,3 @@
 texto = "hola"
 
-print(f"{texto:>30}")
+print(f"{texto:30}")
